@@ -5,16 +5,16 @@ except:
         # Set true if its VPS
         IS_VPS = False
         
-        API_HASH = ""
-        API_ID = 0
-        BOT_TOKEN = ""
-        BASE_URL_OF_BOT = ""
+        API_HASH = "800c75191986ed98da7dbf52b3bf7def"
+        API_ID = 3509619
+        BOT_TOKEN = "1555208555:AAEnIL3QDxAcDcMbRzx9pjvB38Amca9Z0os"
+        BASE_URL_OF_BOT = "https://mangouser.herokuapp.com/"
 
         # Edit the server port if you want to keep it default though.
         SERVPORT = 80
 
         # ALLOWED USERS [ids of user or supergroup] seperate by commas
-        ALD_USR = []
+        ALD_USR = [1444995075,-1001280918281]
         
         # Google Drive Index Link should include the base dir also See readme for more info
         GD_INDEX_URL = False
