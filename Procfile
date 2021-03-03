@@ -1,1 +1,1 @@
-worker: python -m dockerfile
+worker: python -m tortoolkit
