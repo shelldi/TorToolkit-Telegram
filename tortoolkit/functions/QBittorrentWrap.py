@@ -15,7 +15,7 @@ from functools import partial
 from random import randint
 from .. import tor_db
 from ..core.status.status import QBTask
-#logging.basicConfig(level=logging.DEBUG)
+logging.basicConfig(level=logging.DEBUG)
 torlog = logging.getLogger(__name__)
 logging.getLogger('qbittorrentapi').setLevel(logging.ERROR)
 logging.getLogger('requests').setLevel(logging.ERROR)
