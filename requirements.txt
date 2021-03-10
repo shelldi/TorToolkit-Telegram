@@ -1,3 +1,4 @@
+telegram==0.0.1
 aiohttp==3.6.2
 anytree==2.8.0
 aria2p==0.9.1
