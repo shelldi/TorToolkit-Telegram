@@ -1,3 +1,4 @@
+python-telegram-bot==13.3
 telegram==0.0.1
 aiohttp==3.6.2
 anytree==2.8.0
